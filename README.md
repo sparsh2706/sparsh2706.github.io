@@ -10,3 +10,5 @@ I had also functioned as the Chief Organiser as well as the Online Head of Techn
 Currently, I continue to work as a Python developer although I love learning new things which the entire ecosystem has to offer, and have been trying my hands-on Smart Contracts on the Ethereum Blockchain using Solidity. I'd suppose I can call myself an aspiring web3 developer.
 
 Apart from all the programming aspects of my career, I love to write content be it blogs, or even technical documentation. Needless to say, I'll always be forever fascinated by what a bunch of code can do in this world which always makes me wonder about working to build an amazing product for people :)
+
+frtfrtfrtfrtfrtfrt
